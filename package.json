@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-proj",
+  "version": "1.0.0",
+  "description": "me testing rxjs",
+  "main": "RxJsTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindurashmin/RxJs-Proj.git"
+  },
+  "author": "Ravindu Rashmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravindurashmin/RxJs-Proj/issues"
+  },
+  "homepage": "https://github.com/ravindurashmin/RxJs-Proj#readme",
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  }
+}
